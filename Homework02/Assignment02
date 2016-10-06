@@ -1,14 +1,8 @@
-Homework assignment #2 (due 10/12/2016 9pm)
+Homework assignment #2 
+Due 10/12/2016 9pm by email
 
 1. Create a Python program that displays a hangman which we will use later for a Hangman Game. For example,
-    ---------+
-        |    |
-        o    |
-       /|\   |
-       / \   |
-             |
-     ==========
        
 2. Create a Python program that
-    - Ask for user's name, Say "Alice"
-    - Print out "Hi, nice to meet you Alice"
+    - Ask for user's name, say "Alice"
+    - Print out "Hi Alice, nice to meet you"
