@@ -12,11 +12,3 @@ Due 10/19/2016 9pm
      s = (a + b + c) / 2
      area = (s * (s - a)*(s - b)*(s - c)) ** 0.5
   . Print out result (area) in a user friendly way
-
-Students:
-  Please take a look at the class note in case you forget what we learned in class
-  Email teacher with any questions
-
-Parents: 
-  Please check with your student to make sure they spend time on homework and submit it on time
-  
