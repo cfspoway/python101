@@ -1,0 +1,22 @@
+Homework assignment #3 
+Due 10/19/2016 9pm
+
+1. Do the math:
+  . Ask user to input two numbers: number1 and number2
+  . Calculate addition, substraction, multiplication, and division of number1 and number2
+  . Print out all four results in a user friendly way
+
+2. Area of a triangle:
+  . Ask user to input the length of three edges of a triangle: a, b, and c
+  . Calculate the area of the triangle by:
+     s = (a + b + c) / 2
+     area = (s * (s - a)*(s - b)*(s - c)) ** 0.5
+  . Print out result (area) in a user friendly way
+
+Students:
+  Please take a look at the class note in case you forget what we learned in class
+  Email teacher with any questions
+
+Parents: 
+  Please check with your student to make sure they spend time on homework and submit it on time
+  
