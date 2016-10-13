@@ -4,7 +4,7 @@ Python is the primary computer language used in class.
 Homework assignments, class notes, and sample codes will be posted and shared among teacher and students.
 
 ### Students:
-* Please take advantage of the class note while doing your homework
+* Please take a look at the class note while doing your homework
 * Email teacher with any questions
 
 ### Parents: 
