@@ -1,5 +1,7 @@
-Homework assignment #3 
-Due 10/19/2016 9pm
+Homework assignment #3
+. You may use the class note as starting point for your homework program
+. Please save your program in a clean plain text and runnable .py file.
+. Email your program to teacher. Due 10/19/2016 9pm
 
 1. Do the math:
   . Ask user to input two numbers: number1 and number2
@@ -8,7 +10,7 @@ Due 10/19/2016 9pm
 
 2. Area of a triangle:
   . Ask user to input the length of three edges of a triangle: a, b, and c
-  . Calculate the area of the triangle by:
+  . Calculate the area of the triangle by using following formulas:
      s = (a + b + c) / 2
      area = (s * (s - a)*(s - b)*(s - c)) ** 0.5
   . Print out result (area) in a user friendly way
