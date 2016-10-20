@@ -1,0 +1,17 @@
+Homework assignment #4 
+. You may use the class note as starting point for your homework program 
+. Please save your program in a clean plain text and runnable .py file. 
+. Email your program to teacher. Due 10/26/2016 9pm 
+
+1. If you have not completed Homework #3, please complete and re-submit it
+
+2. Mortgage calculator:
+. Ask user to input three numbers: the Loan amount in dollors, MortgageRate in percentage, and the number of Years to pay off
+. Convert input strings to real numbers
+. Do the calculation using following three formulas (note you need to make them work in Python):
+  month = Years * 12
+  rate = MortgageRate / 100 / 12
+  MonthlyPayment = Loan[rate(1 + rate)**month]/[(1 + rate)**month - 1]
+. Print out the MonthlyPayment
+. To see if the program is correct, try a sample input: Loan=100000, MortgageRate = 3, Years = 30, and you should get a monthly payment around 421.60
+. Ask your parents or friends to be the user of this little mortage calculator
