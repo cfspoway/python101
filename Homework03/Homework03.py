@@ -31,7 +31,7 @@ print('\n')
 print("Homework #03, Part 2: area of a triangle")
 
 # step 1: Ask user to input edges
-inputString2 = input('Please input first edge length: ')
+inputString1 = input('Please input first edge length: ')
 inputString2 = input('Please input second edge length: ')
 inputString3 = input('Please input third edge length: ')
 
