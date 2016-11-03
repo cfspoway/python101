@@ -1,0 +1,29 @@
+Homework assignment #5
+. You may use the class note as starting point for your homework program
+. Please save your program in a clean plain text and runnable .py file.
+. Email your program to teacher. Due 11/09/2016 9pm
+
+1. Think about the following logics, then use Python to print the correct answers.
+For example, for the first question, print('99 != 99 is ' + str(99 != 99))
+1. 99 != 99
+2. not (100 > 101)
+3. 9**2 >= (100-15)
+4. (100 > 101) or (not (100 >= 101))
+5. not 'Alice' == 'Alice'
+6. 'Alice' == 'Alice' and 'Jack' != 'jack'
+7. True and True
+8. True and False
+9. False and True
+10. False and False
+11. True or True
+12. True or False
+13. False or True
+14. False or False
+15. not True
+16. not False
+
+2. Compare two numbers
+. Ask user to input two numbers (num1 and num2), convert them from string to number
+. Compare num1 and num2 
+. Print out the larger number
+. Bonus point: when two numbers are equal, print out 'They are equal'
