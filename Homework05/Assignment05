@@ -3,8 +3,13 @@ Homework assignment #5
 . Please save your program in a clean plain text and runnable .py file.
 . Email your program to teacher. Due 11/09/2016 9pm
 
-1. Think about the following logics, then use Python to print the correct answers.
-For example, for the first question, print('99 != 99 is ' + str(99 != 99))
+1. Think about following logics, each of which could be in your future Pyhton 'if' programs
+For each question, reduce it to a single boolean value. 
+Then use Python to validate your answer. For example, for the first question, use following Python code:
+  print('99 != 99 is ' + str(99 != 99))
+would print out: 
+  99 != 99 is False
+Please do the same thing for all questions.
 1. 99 != 99
 2. not (100 > 101)
 3. 9**2 >= (100-15)
