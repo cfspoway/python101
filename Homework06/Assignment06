@@ -1,0 +1,21 @@
+Homework assignment #6
+. Please include you first name as part of the program file name
+. Email your program to teacher. Due 11/16/2016 9pm
+
+1. Re-do the area of triangle
+Below (part 2) is an old homework we did to calculate the area of a triangle:
+https://github.com/cfspoway/python101/blob/master/Homework03/Homework03.py
+But when we input negative number or random number as edge length, it may not be valid for a real triangle. So we want to add some checking of the input.
+Here is the new assignment:
+. Get three inputs from the user, and convert them to real numbers: a, b, and c, just as in the old homework.
+. Check that all input numbers are positive. 
+. Check that the addition of any two inputs is less than the third input. For example, (a + b) < c.
+. If any of the above checks fail, print out an alarm message and quit the program.
+. If input numbers pass all the above checks, do the calculation of triangle area and print out the result, just as in the old homework.
+
+2. Compare three numbers
+. Ask user to input three numbers (a, b, c), convert them from string to real number
+. Compare all three numbers, and find the largest number
+. Print out the largest number
+. When all three numbers are equal, print out 'All three numbers are equal'
+. Bonus point: when there are two equal largest numbers, for example a and b are equal and larger than c, print out 'There are two largest numbers a and b'
