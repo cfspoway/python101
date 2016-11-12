@@ -7,6 +7,7 @@ Below (part 2) is an old homework we did to calculate the area of a triangle:
 https://github.com/cfspoway/python101/blob/master/Homework03/Homework03.py
 But when we input negative number or random number as edge length, it may not be valid for a real triangle. So we want to add some checking of the input.
 Here is the new assignment:
+. Take the old homework as the starting point
 . Get three inputs from the user, and convert them to real numbers: a, b, and c, just as in the old homework.
 . Check that all input numbers are positive. 
 . Check that the addition of any two inputs is less than the third input. For example, (a + b) < c.
