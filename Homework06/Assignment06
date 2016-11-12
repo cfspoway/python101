@@ -13,6 +13,10 @@ Here is the new assignment:
 . Check that the addition of any two inputs is less than the third input. For example, (a + b) < c.
 . If any of the above checks fail, print out an alarm message and quit the program.
 . If input numbers pass all the above checks, do the calculation of triangle area and print out the result, just as in the old homework.
+. To check that your program is correct, try the following test cases:
+   - input: 2, -1, 2, output: edge length must be positive
+   - input: 1, 2, 5, output: input is not valid for a triangle
+   - input: 2, 2, 3, output: The area of this triangle is: 1.98
 
 2. Compare three numbers
 . Ask user to input three numbers (a, b, c), convert them from string to real number
