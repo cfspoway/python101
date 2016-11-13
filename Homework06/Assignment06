@@ -10,7 +10,7 @@ Here is the new assignment:
 . Take the old homework as the starting point
 . Get three inputs from the user, and convert them to real numbers: a, b, and c, just as in the old homework.
 . Check that all input numbers are positive. 
-. Check that the addition of any two inputs is less than the third input. For example, (a + b) < c.
+. Check that the addition of any two inputs is greater than the third input. For example, (a + b) > c.
 . If any of the above checks fail, print out an alarm message and quit the program.
 . If input numbers pass all the above checks, do the calculation of triangle area and print out the result, just as in the old homework.
 . To check that your program is correct, try the following test cases:
