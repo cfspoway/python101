@@ -1,0 +1,37 @@
+Homework assignment #8
+. Please include you first name as part of the program file name
+. Email your program to teacher. Due 01/11/2017 9pm. Please try to start early.
+
+1. A calculator
+. Display a list of options and wait for user to choose one:
+  1. Addition
+  2. Subtraction
+  3. Multiplication
+  4. Division
+  5. Quit
+. If user input is between 1 and 4:
+  - Ask user to input two numbers
+  - For division, if the second input number is zero, then keep asking user to input a new correct number
+  - Do the corresponding calculation
+  - Display the calculation result
+  - Go back to the list of options and wait for user
+. If user input is not between 1 and 4, end the program
+
+2. Prime number
+. Display all primer numbers between 1 and 1000
+  - A number x is a prime number if it cannot be divided by any number between 2 and x-1
+. At the end, display the count of these prime numbers
+  - The correct count is 168
+
+3. Guess a number
+. Define a number in your program that only you know
+. In a while loop, keep asking user to make a guess of the number
+  - If the guess is larger than your number, print 'Your guess is too high'
+  - If the guess is smaller than your number, print 'Your guess is too low'
+  - If the guess is correct, quit the while loop
+  - Only allow user to guess up to 5 times
+. At the end, display if user's guess is correct, and how many guesses did the user make
+
+4. Make some music (optional)
+. Run the provided program Homework08-Music.py (only works on Windows machines)
+. Try to understand how it works and start making your own music, and have fun!
