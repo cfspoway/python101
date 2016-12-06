@@ -1,6 +1,6 @@
 Homework assignment #8
-. Please include you first name as part of the program file name
-. Email your program to teacher. Due 01/11/2017 9pm. Please try to start early.
+. Please include your first name as part of the program file name
+. Email your programs to teacher. Due 01/11/2017 9pm. Please try to start early. Feel free to send programs in separate emails.
 
 1. A calculator
 . Display a list of options and wait for user to choose one:
@@ -18,7 +18,7 @@ Homework assignment #8
 . If user input is not between 1 and 4, end the program
 
 2. Prime number
-. Display all primer numbers between 1 and 1000
+. Display all prime numbers between 1 and 1000
   - A number x is a prime number if it cannot be divided by any number between 2 and x-1
 . At the end, display the count of these prime numbers
   - The correct count is 168
