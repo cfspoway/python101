@@ -22,6 +22,11 @@ Homework assignment #8
   - A number x is a prime number if it cannot be divided by any number between 2 and x-1
 . At the end, display the count of these prime numbers
   - The correct count is 168
+. Hint: use two while loops
+  - First use a while loop for integer number x between 1 and 1000. 
+  - Inside the while loop, use another while loop of integer i between 2 and x-1
+  - Inside the second while loop, use (x % i == 0) to test if x can be divided by i. 
+  - If x cannot be divided by any number i in the second while loop, then x is a prime number
 
 3. Guess a number
 . Define a number in your program that only you know
