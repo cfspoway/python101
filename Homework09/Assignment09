@@ -1,0 +1,10 @@
+Homework assignment #9
+. Please include you first name as part of the program file name
+. Email your program to teacher. Due 01/18/2017 9pm. 
+
+1. Complete or update your programs for homework 8 part 1, 2, and 3
+
+2. Fibonacci Sequence
+Fibonacci sequence is a list of numbers: 0 1 1 2 3 5 8 13 21 ...
+Any number in the list is the summation of its previous two numbers. 
+Please print the Fibonacci Sequence up to 1000, and count how many numbers does it take to reach 1000.
