@@ -1,5 +1,6 @@
-# All sample answers to Homework #8 can be found at:
+# All sample answers to Homework #8 and #9 can be found at:
 # https://github.com/cfspoway/python101/tree/master/Homework08
+# https://github.com/cfspoway/python101/tree/master/Homework09
 
 # Sample answer to Homework #8 part 2
 # Prime numbers
