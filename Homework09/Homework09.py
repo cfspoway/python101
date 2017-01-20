@@ -2,7 +2,7 @@
 
 num1 = 0
 num2 = 1
-print(str(num1) + '\n' + str(num2))
+print(str(num1))
 maxnum = 1000
 count = 1
 while num2 <= maxnum:
