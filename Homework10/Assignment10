@@ -1,0 +1,8 @@
+Homework assignment #10
+. Please include you first name as part of the program file name
+. Email your program to teacher. Due 01/25/2017 9pm. 
+
+There are three dice, each having six faces with number 1 to 6. 
+Your task is to use computer to randomly roll three dice at the same time and calculate the sum of the three numbers facing up. 
+Then let computer roll 1,000,000 times. Count how many times the sum of three dice is greater or equal to 10. 
+Hint: before trying 1,000,000 times, try a small number such as 100 first.
