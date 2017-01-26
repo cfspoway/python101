@@ -14,11 +14,11 @@ Tasks:
 3. First down
   . Both teams roll dice three times and sum them up
   . Compare offense points and defense points:
-  . If offense has a triple, move 30 yards
-  . Else if defense has a triple, fumble. Switch side
-  . Else if offense has a double, move 20 yards
-  . Else if offense has more points than defense, move 10 yards
-  . Else Fourth down
+    - If offense has a triple, move 30 yards
+    - Else if defense has a triple, fumble. Switch side
+    - Else if offense has a double, move 20 yards
+    - Else if offense has more points than defense, move 10 yards
+    - Else Fourth down
 
 4. Fourth down: let user choose:
   . Go for it. 
