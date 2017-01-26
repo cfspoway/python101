@@ -23,7 +23,7 @@ Tasks:
 4. Fourth down: let user choose:
   . Go for it. 
     - Both teams roll 4th die and add it to previous three dice. 
-    - If offence points >= defense points, success, offense move 10 yards
+    - If offence points >= defense points, success, offense moves 10 yards
     - Else switch side
   . Kick or field goal. 
     - Offense rolls a die and move 10 * point yards
@@ -31,6 +31,7 @@ Tasks:
     - Else switch side
 
 5. Score keeping
+  . Whenver the ball enters the end zone, offense gets new score, then switch side
   . 3 point for field goal
   . 6 point for touch down
   . Touch down extra point: let user choose:
