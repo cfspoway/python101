@@ -1,0 +1,40 @@
+Project # 1: A football game
+Week #1: due 2017-02-02 in class. Find your team members. Each team shows your plan and flow chart on paper.
+
+Tasks:
+1. Draw a football court
+  . Two teams: name and score
+  . Game statistics
+  . lines: 0, 10, 20, 30, 40, 50, 40, 30, 20, 10, 0 yard lines
+  . Current position of the ball
+
+2. Punt
+  . Roll a die between 1 and 6, 1 point represents 10 yards. That is where the offense starts
+
+3. First down
+  . Both teams roll dice three times and sum them up
+  . Compare offense points and defense points:
+  . If offense has a triple, move 30 yards
+  . Else if defense has a triple, fumble. Switch side
+  . Else if offense has a double, move 20 yards
+  . Else if offense has more points than defense, move 10 yards
+  . Else Fourth down
+
+4. Fourth down: let user choose:
+  . Go for it. 
+    - Both teams roll 4th die and add it to previous three dice. 
+    - If offence points >= defense points, success, offense move 10 yards
+    - Else switch side
+  . Kick or field goal. 
+    - Offense rolls a die and move 10 * point yards
+    - If ball passes end zone, field goal is good
+    - Else switch side
+
+5. Score keeping
+  . 3 point for field goal
+  . 6 point for touch down
+  . Touch down extra point: let user choose:
+    - Automatic 1 point
+    - 2 points: each team rolls one die. 
+      * If offense point > defense point, 2 extra points
+      * Else zero extra point
