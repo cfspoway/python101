@@ -7,7 +7,9 @@ Tasks:
   . Game statistics
   . lines: 0, 10, 20, 30, 40, 50, 40, 30, 20, 10, 0 yard lines
   . Current position of the ball
-  . hints: to print letter number i out of a TeamName word: print(TeamName[i])
+  . hints:
+     - To print the nth letter out of a TeamName word: print(TeamName[n-1])
+     - To print something on one line using multiple print commands: print('string1', end=''), print(' string2')
 
 2. Punt
   . Roll a die between 1 and 6, 1 point represents 10 yards. That is where the offense starts
