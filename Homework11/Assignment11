@@ -1,0 +1,15 @@
+Homework assignment #11
+. Please include you first name as part of the program file name
+. Email your program to teacher. Due 03/15/2017 9pm. 
+
+Banking
+Assume you have a bank account with initial balance 0. Program a banking system that keeps asking you for three options:
+1. Deposit. Then ask user to input the amount of money to deposit and update the balance.
+2. Withdraw. Then ask user to input the amount of money to withdraw and update the balance.
+3. Exit. Finish the program.
+
+Requirements:
+1. Use a global variable to keep track of the balance.
+2. To update balance, define different functions for deposit and withdraw
+3. Also define a function to print out the current balance
+4. For withdrawing, if the available balance is less than the requsted money, then only withdraw the available balance
