@@ -4,12 +4,12 @@ Homework assignment #12
 
 Split a sentence into words:
 You are given a long sentence that is consisted of multiple words. 
-There is one or more spaces between every two adacent words. 
+There is one or more spaces between every two adjacent words. 
 There can be space(s) before or after the sentence. 
 Assume there is no punctuations. 
 You are asked to find every single word in this sentence and print them out, one word in one line.
 
-For example, the sentence is:
+Just as an example, if the sentence is:
  Hello  this is a sample test sentence that you need   to split into words   
 
 Your output should look like this:
