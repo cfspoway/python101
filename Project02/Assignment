@@ -2,20 +2,21 @@ Project # 2: A hangman game
 
 Week #1 assignment (due 2017-04-05 before class):
 . Find your team members. Each team has 1-3 members.
-. Read carefully the rules below. Come up with a plan and flow chart.
-. Get ready to present your plan and flow chart in next class.
+. Read carefully the rules below. Come up with a plan and optional flow chart.
+. Get ready to present your plan and optional flow chart in next class.
 
 Below are the detailed rules of this project:
 
-1. Define a secret word that contains up to 6 different letters.
+1. Define a secret word that contains up to 6 different letters:
+  - Optionally, you can randomly pick a word out of a list of candidate words
 
 2. Define several variables to keep track of the game status:
   - secretWord
-  - missedLetters
-  - correctLetters
+  - missedLetters: letters guessed wrong
+  - correctLetters: letters guessed correct
 
 3. Define a function to print the game status every time after user guesses a letter:
-  - Draw the hangman based on the the number of correct letters
+  - Draw the hangman based on the the number of missed letters
   - Print the secret word and only display the correctly guessed letters. All other letters should be replace by '_'
   - Also print the missed letters that user guessed but not in the secret word
 
@@ -26,7 +27,8 @@ Below are the detailed rules of this project:
 5. Use a loop to keep asking user to input a new guess. Quit the loop in two conditions:
   - The hangman has been completed drawn, but the secrect word has not be completely guessed.
   - Or the secret word is completely guessed.
+  - Optional: when a game is finished, ask user to whether to start a new game or not.
 
-5. Print out the result of the game after the loop.
+5. Print out the result of the game after a game is finished.
 
-6. Try to make your final program less than 250 lines.
+6. Try to make your final program less than 300 lines.
