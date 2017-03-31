@@ -16,7 +16,7 @@ Below are the detailed rules of this project:
   - correctLetters: letters guessed correct
 
 3. Define a function to print the game status every time after user guesses a letter:
-  - Draw the hangman based on the the number of missed letters
+  - Draw the hangman based on the number of missed letters
   - Print the secret word and only display the correctly guessed letters. All other letters should be replace by '_'
   - Also print the missed letters that user guessed but not in the secret word
 
